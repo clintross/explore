@@ -1,4 +1,4 @@
----
+CRS
 aliases: package-manager-tool
 display_name: Package manager
 short_description: A package manager is a set of tools that automates and manages
